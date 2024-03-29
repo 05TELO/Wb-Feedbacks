@@ -25,4 +25,6 @@ Before doing something, make sure that you have
 
 ## Usage
 
+Add a bot to a group and give it permission to send messages
+
 > poetry run python main.py
